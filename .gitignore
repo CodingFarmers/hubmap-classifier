@@ -1,0 +1,20 @@
+*.pth
+*.out
+*.png
+__pycache__/
+.vscode
+
+*.log
+logs/
+log*
+send_email.py
+best_lr.txt
+*.csv
+
+# datasets
+hubmap-256/
+
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb
